@@ -46,7 +46,7 @@ The dataset used (continuous dataset.csv) contains:
 
 ## How to Run
 1. Clone the repository
-  - git clone https://github.com/Khushipatel27/electricity-demand-lstm-sarsa.git
+  - git clone https://github.com/Khushipatel27/Electricity-Demand-Forecasting-with-LSTM-SARSA.git
   - cd electricity-demand-lstm-sarsa
 
 2. Install dependencies
